@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 array_practice = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-puts array_practice.join('...')
+puts array_practice.join('...') + "..."
 puts "T-#{array_practice.reverse.join(', ')}... BLASTOFF!"
 puts "The last element is #{array_practice.fetch(-1).to_s}"
 puts "The first element is #{array_practice.at(0).to_s}"
