@@ -25,16 +25,4 @@ word_seventeen = ask_for_word("Name an adjective")
 word_eighteen = ask_for_word("Name a number")
 word_nineteen = ask_for_word("Name a plural noun")
 
-puts "Here is your Mad Lib:"
-puts "A vacation is when you take a trip to some #{word_one} place with your #{word_two} family."
-puts "Usually you go to some place that is near a/an #{word_three} or up on a/an #{word_four}."
-puts "A good vacation place is one where you can ride #{word_five}"
-puts "or play #{word_six} or go hunting for #{word_seven}."
-puts "I like to spend my time #{word_eight} or #{word_nine}."
-puts "When parents go on a vacation, they spend their time eating three #{word_ten} a day,"
-puts "and fathers play golf, and mothers sit around #{word_eleven}."
-puts "Last summer, my little brother fell in a/an #{word_twelve} and got poison #{word_thirteen} all over his #{word_fourteen}."
-puts "My family is going to go to (the)#{word_fifteen}, and I will practice #{word_sixteen}."
-puts "Parents need vacations more than kids because parents are always very #{word_seventeen}"
-puts "and because they have to work #{word_eighteen} hours every day all year making enough #{word_nineteen}"
-puts "to pay for the vacation."
+puts "A vacation is when you take a trip to some #{word_one} place with your #{word_two} family. Usually you go to some place that is near a/an #{word_three} or up on a/an #{word_four}. A good vacation place is one where you can ride #{word_five} or play #{word_six} or go hunting for #{word_seven}. I like to spend my time #{word_eight} or #{word_nine}. When parents go on a vacation, they spend their time eating three #{word_ten} a day, and fathers play golf, and mothers sit around #{word_eleven}. Last summer, my little brother fell in a/an #{word_twelve} and got poison #{word_thirteen} all over his #{word_fourteen}. My family is going to go to (the)#{word_fifteen}, and I will practice #{word_sixteen}. Parents need vacations more than kids because parents are always very #{word_seventeen} and because they have to work #{word_eighteen} hours every day all year making enough #{word_nineteen} to pay for the vacation."
