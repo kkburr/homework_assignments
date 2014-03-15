@@ -24,7 +24,7 @@ def play (size_of_number=10)
     break if attempt_guess(number, guess)
   end
 end
-  end
+end
 
 
 
